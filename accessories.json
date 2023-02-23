@@ -1,0 +1,18 @@
+[{
+    "id":2001,
+    "title":"Кусачики",
+    "price":24,
+    "photo":"/catalog/Accessories/1.jpg"
+},
+{
+    "id":2002,
+    "title":"Магнитные соединения",
+    "price":24,
+    "photo":"/catalog/Accessories/2.jpg"
+},
+{
+    "id":2003,
+    "title":"Ретивер с карабином",
+    "price":24,
+    "photo":"/catalog/Accessories/3.jpg"
+}]

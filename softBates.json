@@ -1,0 +1,18 @@
+[{
+    "id":1,
+    "title":"Dainty Olive",
+    "price":24,
+    "photo":"/catalog/SoftBates/1.jpg"
+},
+{
+    "id":2,
+    "title":"Dainty Banana",
+    "price":24,
+    "photo":"/catalog/SoftBates/3RH.jpg"
+},
+{
+    "id":3,
+    "title":"Dainty Chartreuse",
+    "price":24,
+    "photo":"/catalog/SoftBates/6.jpg"
+}]

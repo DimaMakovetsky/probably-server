@@ -1,0 +1,18 @@
+[{
+    "id":10501,
+    "title":"Long Sleeve Shirt Catfish",
+    "price":24,
+    "photo":"/catalog/Shirts/Catfish.jpg"
+},
+{
+    "id":10502,
+    "title":"Long Sleeve Shirt Fantasy",
+    "price":24,
+    "photo":"/catalog/Shirts/Fantasy.jpg"
+},
+{
+    "id":10503,
+    "title":"Shirt Sleeve Shirt Fantasy",
+    "price":24,
+    "photo":"/catalog/Shirts/Short.jpg"
+}]

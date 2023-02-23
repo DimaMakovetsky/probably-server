@@ -1,0 +1,18 @@
+[{
+    "id":1001,
+    "title":"Kaban",
+    "price":24,
+    "photo":"/catalog/Rods/1.jpg"
+},
+{
+    "id":1002,
+    "title":"Levin",
+    "price":24,
+    "photo":"/catalog/Rods/2.jpg"
+},
+{
+    "id":1003,
+    "title":"Ebisu Gold 2",
+    "price":24,
+    "photo":"/catalog/Rods/3.jpg"
+}]
